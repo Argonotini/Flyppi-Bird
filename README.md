@@ -1,5 +1,6 @@
 ﻿# Flyppi Bird
-Unreal Engine 5.1. C++/Blueprints Game.
+Unreal Engine 5.1 C++/Blueprints Game
+
 ## Youtube Link - Review
 [![1.png](https://img.youtube.com/vi/lw5UMEZMv9M/1.jpg)](https://www.youtube.com/watch?v=lw5UMEZMv9M)
 
